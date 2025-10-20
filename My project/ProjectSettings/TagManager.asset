@@ -44,6 +44,9 @@ TagManager:
   - name: bg
     uniqueID: 3438995059
     locked: 0
+  - name: sky
+    uniqueID: 3454243267
+    locked: 0
   - name: ground
     uniqueID: 2352694579
     locked: 0
